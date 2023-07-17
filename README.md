@@ -55,5 +55,5 @@ All generated documentation is present in the `doc` folder at the root of the pr
 
 ## Contributing
 
-- Guewen COUSSEAU (<gcousseau@ipb.fr>)
-- Samuel LANDEAU (<slandeau@ipb.fr>)
+- Guewen COUSSEAU
+- Samuel LANDEAU
